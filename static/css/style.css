@@ -1,0 +1,22 @@
+/*
+style.css — Global stylesheet for FERIA frontend
+Owner: [Team Member Name]
+
+Sections to implement:
+- CSS variables: brand colours, font stack, spacing scale
+- Reset / base styles
+- Navigation bar
+- Button styles (primary, secondary, danger)
+- Card components
+- Form inputs
+- Badge / status pill styles
+- Responsive grid layout
+- Table styles for dashboard
+- Chat window and message bubble styles
+
+Suggested colour palette:
+- Primary:   #1B3A6B  (deep navy — BFSI trustworthy)
+- Accent:    #0F9B8E  (teal — AI / fintech modern)
+- Surface:   #F5F7FA
+- Text:      #1A1A2E
+*/

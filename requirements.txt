@@ -1,0 +1,20 @@
+# FERIA dependencies
+# Owner: fill in versions once agreed by the team
+
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+
+crewai
+crewai-tools
+
+langchain
+langchain-community
+langchain-anthropic
+
+faiss-cpu
+sentence-transformers
+
+# Optional: swap faiss-cpu for chromadb if preferred
+# chromadb
